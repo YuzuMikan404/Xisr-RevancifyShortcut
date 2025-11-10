@@ -1,4 +1,4 @@
-package com.termux.revancify;
+package com.termux.xisr;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -20,13 +20,13 @@ public final class MainActivity extends Activity {
     /**
      * Revancify github
      */
-    private static final String REVANCIFY_GITHUB = "https://github.com/decipher3114/Revancify#installation";
+    private static final String REVANCIFY_GITHUB = "https://github.com/Xisrr1/Revancify-Xisr#installation";
 
     /**
      * Revancify path
      */
     @SuppressLint("SdCardPath")
-    private static final String REVANCIFY_PATH = "/data/data/com.termux/files/home/Revancify/revancify";
+    private static final String REVANCIFY_PATH = "/data/data/com.termux/files/usr/bin/xisr";
 
     /**
      * Target permission name
