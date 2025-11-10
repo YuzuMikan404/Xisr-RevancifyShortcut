@@ -14,9 +14,9 @@ echo 'allow-external-apps = true' >> ~/.termux/termux.properties && termux-reloa
 3. Run Revancify App
 
 # Thanks
-inotia00 https://github.com/inotia00/RevancifyShortcut
+@inotia00 https://github.com/inotia00/RevancifyShortcut
 
-Xisrr1 https://github.com/Xisrr1/Revancify-Xisr
+@Xisrr1 https://github.com/Xisrr1/Revancify-Xisr
 
 ### License
 
