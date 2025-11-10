@@ -6,13 +6,13 @@ android {
     compileSdk 28
 
     defaultConfig {
-        applicationId "com.termux.revancify"
+        applicationId "com.termux.xisr"
         minSdk 26
-        namespace "com.termux.revancify"
+        namespace "com.termux.xisr"
         //noinspection ExpiredTargetSdkVersion
         targetSdk 28
         versionCode 102
-        versionName "1.0.2"
+        versionName "2.0.0"
         resConfigs 'en', 'xxhdpi'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
