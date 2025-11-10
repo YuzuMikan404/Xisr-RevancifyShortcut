@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-feature
         android:name="android.hardware.touchscreen"
@@ -16,7 +16,7 @@
         android:theme="@android:style/Theme.Translucent.NoTitleBar">
         <activity
             android:theme="@android:style/Theme.Translucent.NoTitleBar"
-            android:name="com.termux.revancify.MainActivity"
+            android:name="com.termux.xisr.MainActivity"
             android:noHistory="true"
             android:exported="true">
             <intent-filter>
