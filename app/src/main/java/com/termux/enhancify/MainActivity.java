@@ -1,4 +1,4 @@
-package com.termux.xisr;
+package com.termux.enhancify;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -20,13 +20,13 @@ public final class MainActivity extends Activity {
     /**
      * Revancify github
      */
-    private static final String REVANCIFY_GITHUB = "https://github.com/Xisrr1/Revancify-Xisr#installation";
+    private static final String REVANCIFY_GITHUB = "https://github.com/Graywizard888/Enhancify?tab=readme-ov-file#-installation-guide";
 
     /**
      * Revancify path
      */
     @SuppressLint("SdCardPath")
-    private static final String REVANCIFY_PATH = "/data/data/com.termux/files/usr/bin/xisr";
+    private static final String REVANCIFY_PATH = "/data/data/com.termux/files/usr/bin/enhancify";
 
     /**
      * Target permission name
